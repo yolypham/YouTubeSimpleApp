@@ -1,0 +1,43 @@
+.main {
+    background-color:#f1fce3;
+}
+
+.top {
+    padding: 20px;  
+}
+.search-bar {
+    margin: 20px;
+}
+
+.search-bar input {
+    width: 450px;    
+}
+
+.search-bar button {
+    margin: 10px;
+    width: 90px;
+}
+
+.video-item img {
+    max-width: 65px;
+}
+
+.video-detail .details {
+    margin-top: 10px;
+    padding:10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.list-group-item {
+    cursor: pointer;
+}
+
+.list-group-item:hover {
+    background-color: #eee;
+
+}
+
+.details {
+    background-color: #c2f485;
+}
